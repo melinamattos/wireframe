@@ -1,4 +1,3 @@
-# wireframe
 Projeto Dio Wireframe Media fidelidade
 
 # Sistema de Controle de Estoque
